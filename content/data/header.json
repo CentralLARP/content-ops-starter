@@ -41,7 +41,7 @@
         {
             "type": "SubNav",
             "label": "GOERNMENT",
-            "altText": "Dropdown",
+            "altText": "GOERNMENT",
             "links": [],
             "labelStyle": "secondary"
         }
