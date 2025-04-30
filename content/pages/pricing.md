@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: RESIDENTS
 slug: pricing
 sections:
   - title:
