@@ -161,6 +161,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: News
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
