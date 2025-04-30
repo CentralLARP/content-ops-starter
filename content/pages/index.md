@@ -68,10 +68,11 @@ sections:
       - type: FeaturedItem
         title: LAPD OFFICER
         subtitle: Serve and Protect
-        text: >+
-          ##### Verantwortung übernehmen, Menschen helfen – werden Sie Teil des
-          LAPD-Teams und gestalten Sie unsere Stadt mit.
+        text: >
 
+          Join the Los Angeles Police Department and make a real impact. Uphold
+          safety, support your community, and grow your career with top-level
+          training and benefits.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
