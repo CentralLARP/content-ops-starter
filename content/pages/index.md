@@ -73,7 +73,16 @@ sections:
           Join the Los Angeles Police Department and make a real impact. Uphold
           safety, support your community, and grow your career with top-level
           training and benefits.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://forms.gle/Z1HQan8xHFfsi9N69'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
