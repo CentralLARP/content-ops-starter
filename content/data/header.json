@@ -23,7 +23,7 @@
         {
             "label": "BUSINESS",
             "altText": "BUSINESS",
-            "url": "/blog",
+            "url": "/business",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
