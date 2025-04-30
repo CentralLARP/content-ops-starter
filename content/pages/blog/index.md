@@ -1,5 +1,5 @@
 ---
-title: BUssiness
+title: Bussiness
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
