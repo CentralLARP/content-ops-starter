@@ -94,7 +94,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: Serve and Protect
+        tagline: ''
       - title: LAFD Firefighter
         subtitle: The Job Stuff
         text: >-
