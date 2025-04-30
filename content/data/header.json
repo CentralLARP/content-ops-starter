@@ -40,7 +40,7 @@
         },
         {
             "type": "Link",
-            "label": "JOBS",
+            "label": "GOVERNMENT",
             "altText": "JOBS",
             "url": "/government",
             "icon": "arrowRight",
