@@ -66,10 +66,10 @@ sections:
       - type: FeaturedItem
         title: LAPD OFFICER
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ## Verantwortung übernehmen, Menschen helfen – werden Sie Teil des
+          LAPD-Teams und gestalten Sie unsere Stadt mit.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
