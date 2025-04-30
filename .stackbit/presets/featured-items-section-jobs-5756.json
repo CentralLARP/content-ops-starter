@@ -1,0 +1,203 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "jobs",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "jobs"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Jobs & Training",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "The City of Los Angeles employs a diverse workforce of more than 50,000 people across 44 unique departments – from Airports to the Zoo.\nStart your career with the City today!",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "LAPD OFFICER",
+                        "tagline": "",
+                        "subtitle": "Serve and Protect",
+                        "text": "\nJoin the Los Angeles Police Department and make a real impact. Uphold safety, support your community, and grow your career with top-level training and benefits.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/Seal_of_Los_Angeleskleinr.png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Lightning bolt symbol on red background",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Get started",
+                                "altText": "",
+                                "url": "https://forms.gle/Z1HQan8xHFfsi9N69",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "LAFD FIREFIGHTER",
+                        "tagline": null,
+                        "subtitle": "Courage in Action",
+                        "text": "\nBe part of a team that saves lives. As an LAFD firefighter, you’ll face challenges, fight fires, respond to emergencies, and receive world-class training and support.\n\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/icon2.svg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Featured icon two",
+                            "elementId": "",
+                            "styles": null
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Get started",
+                                "altText": "",
+                                "url": "Coming Soon",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "textAlign": "left",
+                                "justifyContent": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "200%",
+                        "tagline": null,
+                        "subtitle": "Faster",
+                        "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/icon3.svg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Featured icon three",
+                            "elementId": "",
+                            "styles": null
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row"
+                            }
+                        }
+                    }
+                ],
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Get started",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": ""
+                    }
+                ],
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Start your career with the City today!",
+                    "color": "text-primary",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "elementId": "",
+                "variant": "three-col-grid",
+                "colors": "bg-neutral-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pb-16",
+                            "pt-16",
+                            "pl-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center",
+                        "fontWeight": 400
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-jobs-5756.png"
+        }
+    ]
+}
