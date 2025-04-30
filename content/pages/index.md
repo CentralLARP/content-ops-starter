@@ -67,7 +67,7 @@ sections:
         title: LAPD OFFICER
         subtitle: Numbers Done
         text: >+
-          ## Verantwortung übernehmen, Menschen helfen – werden Sie Teil des
+          # Verantwortung übernehmen, Menschen helfen – werden Sie Teil des
           LAPD-Teams und gestalten Sie unsere Stadt mit.
 
         actions: []
