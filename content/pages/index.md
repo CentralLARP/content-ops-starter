@@ -10,11 +10,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      The City of Los Angeles employs a diverse workforce of more than 50,000
-      people across 44 unique departments – from Airports to the Zoo.
-
-      Start your career with the City today!
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: LAPD OFFICER
