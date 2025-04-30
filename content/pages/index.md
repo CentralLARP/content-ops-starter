@@ -107,10 +107,12 @@ sections:
         tagline: ''
       - title: LAFD FIREFIGHTER
         subtitle: Courage in Action
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Be part of a team that saves lives. As an LAFD firefighter, you’ll
+          face challenges, fight fires, respond to emergencies, and receive
+          world-class training and support.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
