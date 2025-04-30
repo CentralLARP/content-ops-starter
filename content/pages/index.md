@@ -65,7 +65,7 @@ sections:
       your career with the City today!
     items:
       - type: FeaturedItem
-        title: 500k
+        title: LAPD OFFICER
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
