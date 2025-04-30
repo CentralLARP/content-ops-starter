@@ -106,7 +106,7 @@ sections:
               borderRadius: x-large
         tagline: ''
       - title: LAFD FIREFIGHTER
-        subtitle: The Job Stuff
+        subtitle: Courage in Action
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
