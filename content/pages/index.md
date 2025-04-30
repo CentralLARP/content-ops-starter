@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Jobs & Training
+      text: City Information & Services
       color: text-dark
       styles:
         self:
