@@ -32,7 +32,7 @@
         {
             "label": "JOBS",
             "altText": "JOBS",
-            "url": "/careers",
+            "url": "/jobs",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
