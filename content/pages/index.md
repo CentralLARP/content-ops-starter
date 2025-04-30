@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: LAPD OFFICER
-        subtitle: Numbers Done
+        subtitle: ''
         text: >+
           ##### Verantwortung übernehmen, Menschen helfen – werden Sie Teil des
           LAPD-Teams und gestalten Sie unsere Stadt mit.
