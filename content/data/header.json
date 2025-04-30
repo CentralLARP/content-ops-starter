@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "GOVERNMENT",
-            "altText": "JOBS",
+            "altText": "GOVERNMENT",
             "url": "/government",
             "icon": "arrowRight",
             "iconPosition": "right",
