@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "RESIDENTS",
-            "url": "/pricing",
+            "url": "/residents",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
