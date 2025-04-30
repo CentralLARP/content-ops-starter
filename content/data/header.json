@@ -51,7 +51,7 @@
     "secondaryLinks": [
         {
             "label": "DISCORD",
-            "altText": "Sign up",
+            "altText": "DISCORD",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
