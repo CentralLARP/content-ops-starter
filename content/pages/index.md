@@ -126,7 +126,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Start your career with the City today!
+      label: ''
       color: text-primary
       styles:
         self:
