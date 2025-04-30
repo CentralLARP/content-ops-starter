@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: LAPD OFFICER
+        title: Request City Services
         subtitle: Serve and Protect
         text: >
 
