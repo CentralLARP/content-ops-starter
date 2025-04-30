@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: LAPD OFFICER
-        subtitle: ''
+        subtitle: Serve and Protect
         text: >+
           ##### Verantwortung übernehmen, Menschen helfen – werden Sie Teil des
           LAPD-Teams und gestalten Sie unsere Stadt mit.
