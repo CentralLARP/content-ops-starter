@@ -105,7 +105,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: LAFD Firefighter
+      - title: LAFD FIREFIGHTER
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
